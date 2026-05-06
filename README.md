@@ -19,7 +19,6 @@ The project integrates multiple tools and technologies including Excel, PostgreS
 
 | Tool        | Purpose |
 |------------|--------|
-| Excel       | Data cleaning, preprocessing, dashboard creation |
 | PostgreSQL  | Data storage, querying, and analysis |
 | Power BI    | Interactive dashboard & KPI visualization |
 | Tableau     | Advanced data visualization & storytelling |
@@ -31,7 +30,7 @@ The project integrates multiple tools and technologies including Excel, PostgreS
 1. **Data Collection**
    - HR dataset containing employee demographics, job roles, and attrition data  
 
-2. **Data Cleaning (Excel)**
+2. **Data Cleaning **
    - Removed duplicates and null values  
    - Standardized column formats  
    - Prepared structured dataset for analysis  
@@ -102,10 +101,6 @@ The project integrates multiple tools and technologies including Excel, PostgreS
 ### 🔷 Tableau Dashboard
 <img src="HR ANALYTICS.png" width="900"/>
 
----
-
-### 🔷 Excel Dashboard
-<img src="images/excel_dashboard.png" width="900"/>
 
 ---
 
@@ -133,7 +128,6 @@ HR-Analytics-Capstone-Project/
 ├── sql/
 ├── powerbi/
 ├── tableau/
-├── excel/
 ├── images/
 └── README.md
 ```
