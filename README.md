@@ -100,7 +100,7 @@ The project integrates multiple tools and technologies including Excel, PostgreS
 ---
 
 ### 🔷 Tableau Dashboard
-<img src="images/tableau_dashboard.png" width="900"/>
+<img src="HR ANALYTICS.png" width="900"/>
 
 ---
 
