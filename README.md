@@ -95,7 +95,7 @@ The project integrates multiple tools and technologies including Excel, PostgreS
 ## 📸 Dashboard Previews
 
 ### 🔷 Power BI Dashboard
-<img src="images/powerbi_dashboard.png" width="900"/>
+<img src="HR_PowerBI_Dashboard.png" width="900"/>
 
 ---
 
