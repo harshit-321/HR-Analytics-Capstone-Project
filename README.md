@@ -93,6 +93,9 @@ The project integrates multiple tools and technologies including Excel, PostgreS
 
 ## 📸 Dashboard Previews
 
+### 🔷 Excel Dashboard
+<img src="HR ANALYTICS.png" width="900"/>
+
 ### 🔷 Power BI Dashboard
 <img src="HR_PowerBI_Dashboard.png" width="900"/>
 
@@ -100,6 +103,7 @@ The project integrates multiple tools and technologies including Excel, PostgreS
 
 ### 🔷 Tableau Dashboard
 <img src="HR ANALYTICS.png" width="900"/>
+
 
 
 ---
