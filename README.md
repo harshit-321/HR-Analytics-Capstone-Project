@@ -6,6 +6,19 @@ This is a complete end-to-end HR Analytics project developed to analyze employee
 The project integrates multiple tools and technologies including Excel, PostgreSQL, Power BI, and Tableau to demonstrate the full data analytics lifecycle — from data cleaning and querying to interactive dashboard creation.
 
 ---
+## 📸 Dashboard Previews
+
+### 🔷 Excel Dashboard
+<img src="Excel dashboard.jpeg" width="900"/>
+
+### 🔷 Power BI Dashboard
+<img src="HR_PowerBI_Dashboard.png" width="900"/>
+
+---
+
+### 🔷 Tableau Dashboard
+<img src="HR ANALYTICS.png" width="900"/>
+
 
 ## 🎯 Objectives
 - Analyze employee attrition and identify key drivers  
@@ -91,18 +104,6 @@ The project integrates multiple tools and technologies including Excel, PostgreS
 
 ---
 
-## 📸 Dashboard Previews
-
-### 🔷 Excel Dashboard
-<img src="HR ANALYTICS.png" width="900"/>
-
-### 🔷 Power BI Dashboard
-<img src="HR_PowerBI_Dashboard.png" width="900"/>
-
----
-
-### 🔷 Tableau Dashboard
-<img src="HR ANALYTICS.png" width="900"/>
 
 
 
